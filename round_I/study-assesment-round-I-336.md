@@ -16,7 +16,7 @@ Please replace '???' (triple question mark) in form below with respective answer
 Please examine Abstract, Introduction and Contribution sections on the subject of mentioning issues/difficulties/challenges/etc. of 
 Symbolic Execution.
   
-5. (Yes/No): `???`
+5. (Yes/No): Yes
 
 If you answered 'Yes' please provide references to the location(s) within the study supporting your answer:  
 (add as many list items 5.x as required in format `page No., citation`. Remove unnessesary items)
